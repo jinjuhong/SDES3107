@@ -16,3 +16,6 @@ img = loadImage("cute_puppy.jpg");
 tint (255,255,210);
 image(img,10,10,100,100);
 
+img = loadImage("taco.jpg");
+tint (255,255,210);
+image(img,60,60,60,60);
