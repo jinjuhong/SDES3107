@@ -52,6 +52,43 @@ println(position);
 
 
 
+
+int screenWidth = 500;
+int pos = 50;
+int ellipseSize = 100;
+
+size(screenWidth, screenWidth*2);
+
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+ellipse(pos, pos, ellipseSize, ellipseSize);
+pos +=50;
+ellipseSize -= 10;
+
+
+
+
+
+
 if((3 < 5)&&(3 > 2)) {
 ellipse(50,50,10,10);}
 
@@ -61,3 +98,6 @@ else {rect(50,50,10,10); }
 
 for (int x = 20; x < 80; x += 5) {
 line(20,x,80,x+15);}
+
+
+
