@@ -1,0 +1,1 @@
+REWORKING OF FILE M_6_1_03Changes I made:¥ Have all the circles concentrated into one area¥ Be able to click anywhere, and a flickering circle-square element will appear from the clicked point and return (be attracted) back to the main source of area.

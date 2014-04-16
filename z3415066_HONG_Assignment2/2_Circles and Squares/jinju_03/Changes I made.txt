@@ -1,0 +1,1 @@
+REWORKING OF FILE M_6_1_03Changes I made:¥ Have window opened to the full screen size of computer screen fit¥ Change (reduce) the numbers of yellow circles and let it spread again¥ Any part of the screen can be clicked and the closest circle will follow

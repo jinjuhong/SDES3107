@@ -1,0 +1,1 @@
+REWORKING FILE OF M_6_1_03¥ Prevent circles from automatically spreading when file is opened¥ Click first appearing circle to initiate all of the circles¥ Get rid of the lines that connect the circles¥ Change colour of background and circles
